@@ -1,0 +1,23 @@
+{
+  "name": "spotify-imersao-alura",
+  "description": "Imersão Alura \r <br>\r Projeto de criação da interface do Spotify\r <br>\r Nos primeiros dias revisamos os conseitos básicos de HTML e CSS. Agora vamos iniciar com JavaScript",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FernandaKuhn/spotify-imersao-alura.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FernandaKuhn/spotify-imersao-alura/issues"
+  },
+  "homepage": "https://github.com/FernandaKuhn/spotify-imersao-alura#readme",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
