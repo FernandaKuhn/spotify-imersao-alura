@@ -1,5 +1,5 @@
 Imersão Alura 
 <br>
-Projeto de criação da interface do Spotify
+Projeto de criação da interface do Spotify base
 <br>
-Nos primeiros dias revisamos os conseitos básicos de HTML e CSS. Agora vamos iniciar com JavaScript
+
